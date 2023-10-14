@@ -60,13 +60,13 @@ updateTheme()
 // Update theme when the preferred scheme changes
 window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', updateTheme)
 
-    document.getElementById('btnSwitch').addEventListener('click',()=>{
-    if (document.documentElement.getAttribute('data-bs-theme') == 'dark') {
-        document.documentElement.setAttribute('data-bs-theme','light')
-    }
-    else {
-        document.documentElement.setAttribute('data-bs-theme','dark')
-    }
+document.getElementById('btnSwitch').addEventListener('click',()=>{
+  if (document.documentElement.getAttribute('data-bs-theme') == 'dark') {
+      document.documentElement.setAttribute('data-bs-theme','light')
+  }
+  else {
+      document.documentElement.setAttribute('data-bs-theme','dark')
+  }
 })
 </script>  
 </body>
