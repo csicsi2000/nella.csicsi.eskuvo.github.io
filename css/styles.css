@@ -1,4 +1,6 @@
-
+body{
+  transition: 0.3s;
+}
 #intro-example {
     height: 400px;
     object-fit: contain;
