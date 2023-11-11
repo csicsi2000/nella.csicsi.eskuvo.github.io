@@ -11,9 +11,7 @@ layout: default
       <div class="col-lg-6">
         <h2 class="display-5 fw-bold lh-1 mb-3">Helyszín</h2>
         <p class="lead fs-5 text-justify">Esküvőnk helyszíne a Visegrádon található Mogyoróhegy Étterem lesz, amely gyönyörű kilátással helyezkedik el a természet közepén. Parkolás lehetséges az étterem mellett, valamint a szállás parkolójában. 
-<br>
-<i><p class="fw-bolder h5">Visegrád, Panoráma u 4, 2025</p></i>
-<br>
+<i><p class="fw-bolder h5 m-4">Visegrád, Panoráma utca 4, 2025</p></i>
 <p class="lead fs-5 text-justify">A szertartás az étteremtől pár perc sétára található külső helyszínen lesz, kilátással a Dunakanyarra. </p>
  </p>
         <div class="d-grid gap-2 d-md-flex justify-content-md-start">
@@ -29,12 +27,12 @@ layout: default
       </div>
       <div class="col-lg-6">
         <h2 class="display-5 fw-bold lh-1 mb-3">Szállás</h2>
-        <p class="lead fs-5">Szállás igénylése esetén a szomszédban lévő Madas László Erdészeti Erdei Iskola faházaiból tudunk foglalni helyet. Itt korán le kell foglalnunk a faházakat, így aki igényelne szállást kérjük írjon minél előbb.</p>
+        <p class="lead fs-5">Szállásfoglalásban igény szerint tudunk segíteni, a külső helyszín mellett található Madas László Erdészeti Erdei Iskola táborhelye rendelkezésünkre áll. A foglalási szándékot 2024. Május 10-ig kérjük jelezni! </p>
         <div class="d-grid gap-2 d-md-flex justify-content-md-start">
           <button type="button" class="btn btn-primary btn-lg px-4 me-md-2" data-bs-toggle="modal" data-bs-target="#szallasModal">
             Részletek
           </button>
-          <a href='mailto:nellacsicsi@gmail.com?Subject=Szállás' class="btn btn-primary btn-lg px-4 me-md-2">Elérhetőségünk</a>
+          <a href='mailto:nellacsicsi@gmail.com?Subject=Szállás' class="btn btn-primary btn-lg px-4 me-md-2">Szállás visszajelzés</a>
         </div>
       </div>
     </div>
@@ -50,10 +48,8 @@ layout: default
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
-      <div class="modal-body">
-        Szállásfoglalásban igény szerint tudunk segíteni, a külső helyszín mellett található Erdei Iskola táborhelye rendelkezésünkre áll. A foglalási szándékot 2024. Május 10-ig kérjük jelezni. Fontos, hogy a foglalás menetéhez tartozik a vendégek adatainak megadása, ezért kérjük küldjétek el a következő adatokat: 
-<hr>
-        A szállás a Madas László Erdészeti Erdei Iskola táborhelyén, 12 férőhelyes faházakban lesz, egy házban 1 db 4 fős és 4 db 2 fős szobával, vizesblokkal. A szobák telítettségétől függően fejenként nagyjából 6000 Ft összegben lesz lehetséges a szállást igénybe venni.<br>
+      <div class="modal-body text-justify">
+        A szállás 12 férőhelyes faházakban lesz, egy házban 1 db 4 fős és 4 db 2 fős szobával, vizesblokkal. A 2023-as árak szerint egy ház ára 50.000 Ft. Ez 12 személyre fejenként 4166 Ft-ot jelent, ez a ház telítettségétől függően változhat. A frissített, 2024-es árlistát valamint az új tájékoztatót Január folyamán kapjuk meg, ezt azonnal frissíteni is fogjuk.<br>
           <a class="link-primary" href="https://parkerdo.hu/turizmus/turistaszallasok/madas-laszlo-erdeszeti-erdei-iskola/">Szállás honlapja</a>
       </div>
       <div class="modal-footer">
