@@ -12,7 +12,7 @@ layout: default
         <h2 class="display-5 fw-bold lh-1 mb-3">Helyszín</h2>
         <p class="lead fs-5 text-justify">Az esküvő helyszíne a Mogyóróhegy étteremben lesz, ami Visegrádon helyeszkedik el gyönyörű kilátással a természet közepében.  </p>
         <div class="d-grid gap-2 d-md-flex justify-content-md-start">
-          <button type="button" class="btn btn-primary btn-lg px-4 me-md-2"><a class="text-reset text-decoration-none" href="https://www.mogyorohegy.hu/index.html">Étterem honlapja</a></button>
+          <a class="btn btn-primary btn-lg px-4 me-md-2" href="https://www.mogyorohegy.hu/index.html">Étterem honlapja</a>
         </div>
       </div>
     </div>
@@ -26,10 +26,8 @@ layout: default
         <h2 class="display-5 fw-bold lh-1 mb-3">Szállás</h2>
         <p class="lead fs-5">Szállás igénylése esetén a szomszédban lévő Madas László Erdészeti Erdei Iskola faházaiból tudunk foglalni helyet. Itt korán le kell foglalnunk a faházakat, így aki igényelne szállást kérjük írjon minél előbb.</p>
         <div class="d-grid gap-2 d-md-flex justify-content-md-start">
-          <button type="button" class="btn btn-primary btn-lg px-4 me-md-2"><a class="text-reset text-decoration-none" href="https://parkerdo.hu/turizmus/turistaszallasok/madas-laszlo-erdeszeti-erdei-iskola/">Szállás honlapja</a></button>
-        <button type="button" class="btn btn-primary btn-lg px-4 me-md-2" >
-          <a href='mailto:nellacsicsi@gmail.com?Subject=Szállás' target="_top" class="text-reset text-decoration-none" >Elérhetőségünk</a>
-        </button>
+          <a class="btn btn-primary btn-lg px-4 me-md-2" href="https://parkerdo.hu/turizmus/turistaszallasok/madas-laszlo-erdeszeti-erdei-iskola/">Szállás honlapja</a>
+          <a href='mailto:nellacsicsi@gmail.com?Subject=Szállás' class="text-reset text-decoration-none" class="btn btn-primary btn-lg px-4 me-md-2" >Elérhetőségünk</a>
         </div>
       </div>
     </div>
