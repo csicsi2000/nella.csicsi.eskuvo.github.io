@@ -27,7 +27,9 @@ layout: default
         <p class="lead fs-5">Szállás igénylése esetén a szomszédban lévő Madas László Erdészeti Erdei Iskola faházaiból tudunk foglalni helyet. Itt korán le kell foglalnunk a faházakat, így aki igényelne szállást kérjük írjon minél előbb.</p>
         <div class="d-grid gap-2 d-md-flex justify-content-md-start">
           <button type="button" class="btn btn-primary btn-lg px-4 me-md-2"><a class="text-reset text-decoration-none" href="https://parkerdo.hu/turizmus/turistaszallasok/madas-laszlo-erdeszeti-erdei-iskola/">Szállás honlapja</a></button>
-        <button type="button" class="btn btn-primary btn-lg px-4 me-md-2" ><a class="text-reset text-decoration-none" href='mailto:em@gmail.com'>Elérhetőségünk</a></button>
+        <button type="button" class="btn btn-primary btn-lg px-4 me-md-2" >
+          <a href='mailto:nellacsicsi@gmail.com?Subject=Szállás' target="_top" class="text-reset text-decoration-none" >Elérhetőségünk</a>
+        </button>
         </div>
       </div>
     </div>
