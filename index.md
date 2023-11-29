@@ -17,3 +17,20 @@ layout: default
       </div>
     </div>
 </div>
+<div class="d-flex align-items-center justify-content-center">
+<div id="flipdown" class="flipdown" style="width: unset"></div>
+</div>
+<script>
+var flipColorMode = document.querySelector("html").getAttribute("data-bs-theme");
+  console.log(flipColorMode)
+  if(flipColorMode == "dark"){
+    flipColorMode = "light"
+  }else{
+    flipColorMode = "dark"
+  }
+  new FlipDown(1722272400,{
+    headings: ["Nap", "Óra", "Perc", "Másodperc"],
+    theme: flipColorMode
+  }).start();
+
+</script>
