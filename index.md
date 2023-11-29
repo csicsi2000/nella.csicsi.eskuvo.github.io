@@ -17,7 +17,7 @@ layout: default
       </div>
     </div>
 </div>
-<div class="d-flex align-items-center justify-content-center">
+<div class="d-flex align-items-center justify-content-center mt-4">
 <div id="flipdown" class="flipdown" style="width: unset"></div>
 </div>
 <script>
