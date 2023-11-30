@@ -14,7 +14,7 @@
     <script type="text/javascript" src="js/flipdown.min.js"></script>
     <link href="" rel="stylesheet" id="theme-link">
   </head>
-  <body>
+  <body >
     <script>
       storedColorMode = localStorage.getItem("colorMode");
       document.querySelector("html").setAttribute("data-bs-theme", storedColorMode);
@@ -61,7 +61,7 @@
           </div>
         </div>
       </nav>
-      <section>{{ content }}</section>
+      <section class="min-vh-100">{{ content }}</section>
     </div>
     <footer class="border-top p-4 m-5">
         <p class="text-center h2">Nella & Csicsi</p>
