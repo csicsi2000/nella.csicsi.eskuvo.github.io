@@ -60,7 +60,8 @@ Elkerülendő színek: fehér, piros és fekete. </p>
       </div>
       <div class="col-lg-6">
         <h2 class="display-5 fw-bold lh-1 mb-3">Ételintolerancia</h2>
-        <p class="lead fs-5">Az étteremben van lehetőség mentes ételeket igényelni (glutén, laktóz és/vagy tejmentes, valamint különlegesebb igény esetén mást is), viszont ahhoz jelezzetek nekünk vissza, ha lenne erre igény, mi pedig ezt továbbítjuk az étteremnek. Ők külön készítik valamint tálalják fel, hogy semmilyen keresztszennyeződés ne érje a mentes ételeket.</p>
+        <p class="lead fs-5">Az étteremben van lehetőség mentes ételeket rendelni, viszont ahhoz alább jelezzetek nekünk vissza, ha lenne erre igény, mi pedig ezt továbbítjuk az étteremnek. Ők külön készítik valamint tálalják fel, hogy semmilyen keresztszennyeződés ne érje a mentes ételeket.
+</p>
         <div class="d-grid gap-2 d-md-flex justify-content-md-start">
           <a href='mailto:nellacsicsi@gmail.com?Subject=Ételintolerancia' class="btn btn-primary btn-lg px-4 me-md-2">Ételintolerancia visszajelzés</a>
         </div>
