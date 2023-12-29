@@ -47,7 +47,7 @@ layout: default
       </div>
       <div class="col-lg-6">
         <h2 class="display-5 fw-bold lh-1 mb-3">Dress code</h2>
-        <p class="lead fs-5">Mivel az esküvőnk a természetben, egy erdő közepén lesz (ráadásul a ceremónia a hegyen, amit az étteremtől csak sétálva lehet megközelíteni), azt ajánlott dress code a laza, de elegáns lenne 🙂 Mi is ehhez fogjuk tartani magunkat 😉 
+        <p class="lead fs-5">Mivel az esküvőnk a természetben, egy erdő közepén lesz (ráadásul a ceremónia a hegyen, amit az étteremtől csak sétálva lehet megközelíteni), az ajánlott dress code a laza, de elegáns lenne. Mi is ehhez fogjuk tartani magunkat. 😉 
 Elkerülendő színek: fehér, piros és fekete. </p>
       </div>
     </div>
@@ -83,6 +83,7 @@ Támogatva induló közös életünk. </p>
     </div>
 </div>
 
+<!-- Szállás részletek -->
 <div class="modal fade" id="szallasModal" tabindex="-1" role="dialog" aria-labelledby="szallasModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
     <div class="modal-content">
