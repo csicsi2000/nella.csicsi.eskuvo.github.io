@@ -15,5 +15,9 @@ body{
     #intro-example {
       height: 600px;
     }
+
+    .desktop-layout-text{
+      margin-top: 9rem;
+    }
   }
 

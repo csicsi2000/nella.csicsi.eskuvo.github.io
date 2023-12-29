@@ -2,8 +2,8 @@
 title: Home page
 layout: default
 ---
-<div id="intro-example" class="p-5 text-center bg-image" style="background-image: url('images/kozos.jpg');background-size: contain;">
-    <div class="mask" style="background-color: rgba(0, 0, 0, 0.3);">
+<div id="intro-example" class="p-5 text-center bg-image" style="background-image: url('images/kozos2.jpg');background-size: contain;">
+    <div class="mask desktop-layout-text" style="background-color: rgba(0, 0, 0, 0.3); ">
       <div class="d-flex justify-content-center align-items-center h-100">
         <div class="text-white">
           <h1 class="mb-3" style="font-family: 'Angella White Personal use font', sans-serif; font-size: 5rem;">Nella + Csicsi</h1>
