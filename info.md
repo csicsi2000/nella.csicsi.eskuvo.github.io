@@ -76,10 +76,12 @@ Elkerülendő színek: fehér, piros és fekete. </p>
       </div>
       <div class="col-lg-6">
         <h2 class="display-5 fw-bold lh-1 mb-3">Nászajándék</h2>
-        <p class="lead fs-5">Aki nászunkra szép ajándékot adna, <br>
+        <blockquote class="blockquote">
+        <p class="lead fs-5">"Aki nászunkra szép ajándékot adna, <br>
 A reánk szánt összeget tegye borítékba:<br>
 A legtöbbet ezzel segít nekünk,<br>
-Támogatva induló közös életünk. </p>
+Támogatva induló közös életünk."</p>
+</blockquote>
       </div>
     </div>
 </div>
