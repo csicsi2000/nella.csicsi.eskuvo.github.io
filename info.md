@@ -30,7 +30,7 @@ layout: default
       <div class="col-lg-6">
         <h2 class="display-5 fw-bold lh-1 mb-3">Szállás</h2>
         <p class="lead fs-5">Szállásfoglalásban igény szerint tudunk segíteni, a külső helyszín mellett található Madas László Erdészeti Erdei Iskola táborhelye rendelkezésünkre áll. A foglalási szándékot 2024. Május 10-ig kérjük jelezni! </p>
-        <div class="d-grid gap-2 d-md-flex justify-content-md-start">
+        <div class="d-grid gap-4 d-md-flex justify-content-md-start">
           <button type="button" class="btn btn-primary btn-lg px-4 me-md-2" data-bs-toggle="modal" data-bs-target="#szallasModal">
             Részletek
           </button>
@@ -97,8 +97,12 @@ Támogatva induló közös életünk."</p>
         </button>
       </div>
       <div class="modal-body text-justify">
-        A szállás 12 férőhelyes faházakban lesz, egy házban 1 db 4 fős és 4 db 2 fős szobával, vizesblokkal. A 2023-as árak szerint egy ház ára 50.000 Ft. Ez 12 személyre fejenként 4166 Ft-ot jelent, ez a ház telítettségétől függően változhat. A frissített, 2024-es árlistát valamint az új tájékoztatót Január folyamán kapjuk meg, ezt azonnal frissíteni is fogjuk.<br>
-          <a class="link-primary" href="https://parkerdo.hu/turizmus/turistaszallasok/madas-laszlo-erdeszeti-erdei-iskola/">Szállás honlapja</a>
+        A szállás 10 férőhelyes faházakban lesz, egy házban 1 db 4 fős, 2 db 2 fős és 2 db 1 fős szobával és vizesblokkal. A 2024-as árak szerint egy ház ára 60.000 Ft. Ez 10 személyre fejenként 6000 Ft-ot jelent, ez a ház telítettségétől függően változhat.<br>
+        <div class="d-flex flex-column">
+          <a class="btn btn-primary m-2" href="https://parkerdo.hu/turizmus/turistaszallasok/madas-laszlo-erdeszeti-erdei-iskola/">Szállás honlapja</a>
+          <a class="btn btn-info m-2" href="documents/Esküvői szállás tájékoztató 2024.doc" download="Esküvői szállás tájékoztató 2024.doc">Szállás Tájékoztató</a>
+          <a class="btn btn-success m-2" href="documents/NTAK-VIZA-2024.docx" download="Szallas_Jelentkezes.docx">Jelentkezéshez szükséges adatok</a>
+          </div>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Bezárás</button>
