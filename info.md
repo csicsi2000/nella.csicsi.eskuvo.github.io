@@ -29,7 +29,7 @@ layout: default
       </div>
       <div class="col-lg-6">
         <h2 class="display-5 fw-bold lh-1 mb-3">Szállás</h2>
-        <p class="lead fs-5">Szállásfoglalásban igény szerint tudunk segíteni, a külső helyszín mellett található Madas László Erdészeti Erdei Iskola táborhelye rendelkezésünkre áll. A foglalási szándékot 2024. Május 10-ig kérjük jelezni! </p>
+        <p class="lead fs-5">Szállásfoglalásban igény szerint tudunk segíteni, a külső helyszín mellett található Madas László Erdészeti Erdei Iskola táborhelye rendelkezésünkre áll. </p>
         <div class="d-grid gap-4 d-md-flex justify-content-md-start">
           <button type="button" class="btn btn-primary btn-lg px-4 me-md-2" data-bs-toggle="modal" data-bs-target="#szallasModal">
             Részletek
