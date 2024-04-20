@@ -28,8 +28,9 @@ var flipColorMode = document.querySelector("html").getAttribute("data-bs-theme")
   }else{
     flipColorMode = "dark"
   }
-  
-  new FlipDown(1722272400,{
+  const countdownDate = new Date('2024-07-29T17:00:00+02:00'); // Adjusted to Hungarian time (UTC+2)
+
+  new FlipDown(countdownDate.getTime() / 1000,{
     headings: ["Nap", "Óra", "Perc", "Másodperc"],
     theme: flipColorMode
   }).start();
